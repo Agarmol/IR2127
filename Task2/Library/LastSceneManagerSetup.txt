@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SceneRigidBody.unity
+- path: Assets/Scenes/FirstScript.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
